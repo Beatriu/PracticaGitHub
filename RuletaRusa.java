@@ -22,7 +22,7 @@ public class RuletaRusa {
 					System.out.println("You die.");
 					i=arr.length;
 				}else {
-					System.out.println("so lucky");
+					System.out.println("OMG GUYS");
 				}
 			
 			}
